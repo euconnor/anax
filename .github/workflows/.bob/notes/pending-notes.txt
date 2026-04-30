@@ -1,2 +1,0 @@
-{"id":"14f7471e-186b-4e46-b8a2-a0f862513d11","ts":"2026-04-30T14:09:05.950Z","path":"/Users/josephapearson/dev/anax/.github/workflows/copydocs.yml","version":"1.0.0","taskID":"0bd665a6-4d9d-4815-978b-f017939917d1"}
-{"id":"98209c96-8e13-44ea-814a-c97a330f3593","ts":"2026-04-30T14:09:10.278Z","path":"/Users/josephapearson/dev/anax/.github/workflows/copyagentreadme.yml","version":"1.0.0","taskID":"0bd665a6-4d9d-4815-978b-f017939917d1"}
