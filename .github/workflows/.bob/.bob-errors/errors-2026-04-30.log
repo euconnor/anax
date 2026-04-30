@@ -1,0 +1,61 @@
+
+================================================================================
+ERROR LOGGED: 2026-04-30T14:03:11.857Z
+================================================================================
+Error Name: McpError
+Error Message: MCP error -32603: The MCP server is only available if your active tab is a design or FigJam file.
+
+Stack Trace:
+McpError: MCP error -32603: The MCP server is only available if your active tab is a design or FigJam file.
+    at t.fromError (file:///opt/homebrew/lib/node_modules/bobshell/bundle/bob.js:549:44541)
+    at h6._onresponse (file:///opt/homebrew/lib/node_modules/bobshell/bundle/bob.js:553:22439)
+    at _transport.onmessage (file:///opt/homebrew/lib/node_modules/bobshell/bundle/bob.js:553:18272)
+    at file:///opt/homebrew/lib/node_modules/bobshell/bundle/bob.js:557:3442
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+================================================================================
+
+
+================================================================================
+ERROR LOGGED: 2026-04-30T14:03:11.869Z
+================================================================================
+Error Name: McpError
+Error Message: MCP error -32603: The MCP server is only available if your active tab is a design or FigJam file.
+
+Stack Trace:
+McpError: MCP error -32603: The MCP server is only available if your active tab is a design or FigJam file.
+    at t.fromError (file:///opt/homebrew/lib/node_modules/bobshell/bundle/bob.js:549:44541)
+    at h6._onresponse (file:///opt/homebrew/lib/node_modules/bobshell/bundle/bob.js:553:22439)
+    at _transport.onmessage (file:///opt/homebrew/lib/node_modules/bobshell/bundle/bob.js:553:18272)
+    at file:///opt/homebrew/lib/node_modules/bobshell/bundle/bob.js:557:3442
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+================================================================================
+
+
+================================================================================
+ERROR LOGGED: 2026-04-30T14:03:11.869Z
+================================================================================
+Error Name: Error
+Error Message: No prompts or tools found on the server.
+
+Stack Trace:
+Error: No prompts or tools found on the server.
+    at txe.discover (file:///opt/homebrew/lib/node_modules/bobshell/bundle/bob.js:3502:13630)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///opt/homebrew/lib/node_modules/bobshell/bundle/bob.js:3502:17311
+================================================================================
+
+
+================================================================================
+ERROR LOGGED: 2026-04-30T14:03:12.110Z
+================================================================================
+Error Name: Error
+Error Message: Connection failed for 'carbon': Streamable HTTP error: Error POSTing to endpoint: {"error":"Invalid token","detail":"\"exp\" claim timestamp check failed | Re-auth required: re-run the authorization flow to obtain a new auth code and session ID, then retry with the new Bearer token and X-MCP-Session."}
+
+Stack Trace:
+Error: Connection failed for 'carbon': Streamable HTTP error: Error POSTing to endpoint: {"error":"Invalid token","detail":"\"exp\" claim timestamp check failed | Re-auth required: re-run the authorization flow to obtain a new auth code and session ID, then retry with the new Bearer token and X-MCP-Session."}
+    at qlr (file:///opt/homebrew/lib/node_modules/bobshell/bundle/bob.js:3502:10291)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async txe.connect (file:///opt/homebrew/lib/node_modules/bobshell/bundle/bob.js:3502:13137)
+    at async file:///opt/homebrew/lib/node_modules/bobshell/bundle/bob.js:3502:17293
+================================================================================
+
